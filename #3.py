@@ -1,0 +1,13 @@
+a=2
+print(a)
+b="kartik"
+print(b)
+print(type(a))
+c=complex(8,2)
+print(c)
+list1=[2,2.3,[-4,-5],["apple","banana"]]
+print(list1)
+tuple1=(("parrot","sparrow"),("lion","tiger"))
+print(tuple1)
+dict1={"name":"kartik","age":12,"class":"12B"}
+print(dict1)
